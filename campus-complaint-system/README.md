@@ -1,16 +1,90 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Campus Complaint Management System
 
-Currently, two official plugins are available:
+A responsive web application that allows students to submit complaints, track their status, and enables administrators to manage and resolve campus issues efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+https://sirisha123-kanuru.github.io/campus-complaint-system/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- Submit campus complaints
+- Track complaint status using Complaint ID
+- Admin dashboard to manage complaints
+- Update complaint status
+- Delete complaints
+- Responsive UI design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- JavaScript
+- Bootstrap
+- HTML
+- CSS
+- Vite
+
+---
+
+## 📂 Project Structure
+src
+├── components
+│ └── Navbar.jsx
+├── pages
+│ ├── Home.jsx
+│ ├── SubmitComplaint.jsx
+│ ├── TrackComplaint.jsx
+│ └── AdminDashboard.jsx
+├── App.jsx
+├── main.jsx
+├── App.css
+└── index.css
+
+## ⚙️ Installation
+
+1.Clone the repository
+    git clone https://github.com/sirisha123-kanuru/campus-complaint-system.git
+
+
+2.Go to the project folder
+    cd campus-complaint-system
+
+3.Install dependencies
+    npm install
+
+4.Run the project
+    npm run dev
+
+  
+---
+
+## 📸 Screenshots
+
+- Home Page
+![alt text](<Screenshot (68)-1.png>)
+- Submit Complaint Page
+![alt text](<Screenshot (69).png>)
+- Track Complaint Page
+![alt text](<Screenshot (70).png>)
+- Admin Dashboard
+![alt text](<Screenshot (71).png>)
+
+---
+
+## 👩‍💻 Developed By
+
+**Sirisha Kanuru**
+
+- LinkedIn: https://www.linkedin.com/in/venkata-sirisha-kanuru-3a204132b/
+- GitHub: https://github.com/sirisha123-kanuru
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!  
+   
