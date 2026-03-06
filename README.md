@@ -62,18 +62,13 @@ src
   
 ---
 
-## 📸 Screenshots
+## output pages
 
 - Home Page
-![alt text](<Screenshot (68)-1.png>)
 - Submit Complaint Page
-![alt text](<Screenshot (69).png>)
 - Track Complaint Page
-![alt text](<Screenshot (70).png>)
 - Admin Dashboard
-![alt text](<Screenshot (71).png>)
 
----
 
 ## 👩‍💻 Developed By
 
