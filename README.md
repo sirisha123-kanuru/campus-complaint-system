@@ -65,7 +65,6 @@ src
 ## output pages
 
 - Home Page
- ![Home Page] (Screenshot (68)-1.png)
 - Submit Complaint Page
 - Track Complaint Page
 - Admin Dashboard
